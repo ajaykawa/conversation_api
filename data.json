@@ -9,32 +9,43 @@
             {
               "email": "john.doe@techcorp.com",
               "subject": "Meeting Request",
-              "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta."
-            },
-            {
-              "email": "j.doe@techcorp.com",
-              "subject": "Project Update",
-              "message": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+              "message": "Lorem ipsum dolor sit amet."
             }
           ]
         },
+        // Missing closing brace or comma here
         {
           "name": "Jane Smith",
           "emails": [
             {
               "email": "jane.smith@techcorp.com",
               "subject": "Quarterly Review",
-              "message": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            },
+              "message": "Duis aute irure dolor in reprehenderit."
+            }
+          ]
+        }
+      ]
+    },  {
+      "company_name": "TechCorp",
+      "people": [
+        {
+          "name": "John Doe",
+          "emails": [
             {
-              "email": "j.smith@techcorp.com",
-              "subject": "Team Collaboration",
-              "message": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris."
-            },
+              "email": "john.doe@techcorp.com",
+              "subject": "Meeting Request",
+              "message": "Lorem ipsum dolor sit amet."
+            }
+          ]
+        },
+        // Missing closing brace or comma here
+        {
+          "name": "Jane Smith",
+          "emails": [
             {
-              "email": "smith.jane@techcorp.com",
-              "subject": "Client Feedback",
-              "message": "Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue."
+              "email": "jane.smith@techcorp.com",
+              "subject": "Quarterly Review",
+              "message": "Duis aute irure dolor in reprehenderit."
             }
           ]
         }
@@ -49,82 +60,7 @@
             {
               "email": "alice.johnson@innovateinc.com",
               "subject": "Product Launch",
-              "message": "Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. Praesent ut ligula non mi varius sagittis. Fusce vel dui."
-            },
-            {
-              "email": "a.johnson@innovateinc.com",
-              "subject": "Budget Planning",
-              "message": "Aenean viverra rhoncus pede. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum."
-            }
-          ]
-        },
-        {
-          "name": "Bob Brown",
-          "emails": [
-            {
-              "email": "bob.brown@innovateinc.com",
-              "subject": "Team Building Event",
-              "message": "Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero."
-            }
-          ]
-        },
-        {
-          "name": "Charlie Davis",
-          "emails": [
-            {
-              "email": "charlie.davis@innovateinc.com",
-              "subject": "Client Meeting",
-              "message": "In ac felis quis tortor malesuada pretium. Curabitur blandit mollis lacus. Nam adipiscing. Vestibulum eu odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia."
-            },
-            {
-              "email": "c.davis@innovateinc.com",
-              "subject": "Sales Report",
-              "message": "Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae."
-            }
-          ]
-        }
-      ]
-    }
- {
-      "company_name": "LeadGPT",
-      "people": [
-        {
-          "name": "Aman kaya",
-          "emails": [
-            {
-              "email": "alice.johnson@innovateinc.com",
-              "subject": "Product Launch",
-              "message": "Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. Praesent ut ligula non mi varius sagittis. Fusce vel dui."
-            },
-            {
-              "email": "a.johnson@innovateinc.com",
-              "subject": "Budget Planning",
-              "message": "Aenean viverra rhoncus pede. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum."
-            }
-          ]
-        },
-        {
-          "name": "Rahul agrawal",
-          "emails": [
-            {
-              "email": "bob.brown@innovateinc.com",
-              "subject": "Team Building Event",
-              "message": "Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero."
-            }
-          ]
-        },
-        {
-          "name": "Ajay kawa",
-          "emails": [
-            {
-              "email": "charlie.davis@innovateinc.com",
-              "subject": "Client Meeting",
-              "message": "In ac felis quis tortor malesuada pretium. Curabitur blandit mollis lacus. Nam adipiscing. Vestibulum eu odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia."
-            },
-            {
-              "email": "c.davis@innovateinc.com",
-              "subject": "Sales Report",
-              "message": "Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae."
+              "message": "Aliquam erat volutpat."
             }
           ]
         }
