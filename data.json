@@ -24,30 +24,6 @@
           ]
         }
       ]
-    },  {
-      "company_name": "TechCorp",
-      "people": [
-        {
-          "name": "John Doe",
-          "emails": [
-            {
-              "email": "john.doe@techcorp.com",
-              "subject": "Meeting Request",
-              "message": "Lorem ipsum dolor sit amet."
-            }
-          ]
-        },
-        {
-          "name": "Jane Smith",
-          "emails": [
-            {
-              "email": "jane.smith@techcorp.com",
-              "subject": "Quarterly Review",
-              "message": "Duis aute irure dolor in reprehenderit."
-            }
-          ]
-        }
-      ]
     },
     {
       "company_name": "InnovateInc",
@@ -59,6 +35,151 @@
               "email": "alice.johnson@innovateinc.com",
               "subject": "Product Launch",
               "message": "Aliquam erat volutpat."
+            }
+          ]
+        },
+        {
+          "name": "Bob Brown",
+          "emails": [
+            {
+              "email": "bob.brown@innovateinc.com",
+              "subject": "Team Building Event",
+              "message": "Sed fringilla mauris sit amet nibh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company_name": "LeadGPT",
+      "people": [
+        {
+          "name": "Aman Kaya",
+          "emails": [
+            {
+              "email": "aman.kaya@leadgpt.com",
+              "subject": "Project Kickoff",
+              "message": "Praesent libero. Sed cursus ante dapibus diam."
+            }
+          ]
+        },
+        {
+          "name": "Rahul Agrawal",
+          "emails": [
+            {
+              "email": "rahul.agrawal@leadgpt.com",
+              "subject": "Budget Discussion",
+              "message": "Vivamus sagittis lacus vel augue laoreet rutrum."
+            }
+          ]
+        },
+        {
+          "name": "Ajay Kawa",
+          "emails": [
+            {
+              "email": "ajay.kawa@leadgpt.com",
+              "subject": "Client Feedback",
+              "message": "Vestibulum at eros. Nulla vitae elit libero."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company_name": "NextGenTech",
+      "people": [
+        {
+          "name": "Emily Clark",
+          "emails": [
+            {
+              "email": "emily.clark@nextgentech.com",
+              "subject": "Software Update",
+              "message": "Curabitur blandit tempus porttitor."
+            }
+          ]
+        },
+        {
+          "name": "David Miller",
+          "emails": [
+            {
+              "email": "david.miller@nextgentech.com",
+              "subject": "Security Patch",
+              "message": "Maecenas sed diam eget risus varius blandit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company_name": "AI Innovators",
+      "people": [
+        {
+          "name": "Sophia Williams",
+          "emails": [
+            {
+              "email": "sophia.williams@aiinnovators.com",
+              "subject": "AI Model Update",
+              "message": "Sed posuere consectetur est at lobortis."
+            }
+          ]
+        },
+        {
+          "name": "Liam Johnson",
+          "emails": [
+            {
+              "email": "liam.johnson@aiinnovators.com",
+              "subject": "Data Security",
+              "message": "Nulla vitae elit libero, a pharetra augue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company_name": "GreenEnergy",
+      "people": [
+        {
+          "name": "Olivia Brown",
+          "emails": [
+            {
+              "email": "olivia.brown@greenenergy.com",
+              "subject": "Renewable Energy Conference",
+              "message": "Cras justo odio, dapibus ac facilisis in."
+            }
+          ]
+        },
+        {
+          "name": "Ethan Davis",
+          "emails": [
+            {
+              "email": "ethan.davis@greenenergy.com",
+              "subject": "Sustainability Report",
+              "message": "Vestibulum id ligula porta felis euismod."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company_name": "HealthTech",
+      "people": [
+        {
+          "name": "Ava Wilson",
+          "emails": [
+            {
+              "email": "ava.wilson@healthtech.com",
+              "subject": "Healthcare Innovation",
+              "message": "Integer posuere erat a ante venenatis."
+            }
+          ]
+        },
+        {
+          "name": "James Martin",
+          "emails": [
+            {
+              "email": "james.martin@healthtech.com",
+              "subject": "Medical Device Update",
+              "message": "Curabitur blandit tempus porttitor."
             }
           ]
         }
