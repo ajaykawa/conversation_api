@@ -13,7 +13,6 @@
             }
           ]
         },
-        // Missing closing brace or comma here
         {
           "name": "Jane Smith",
           "emails": [
@@ -38,7 +37,6 @@
             }
           ]
         },
-        // Missing closing brace or comma here
         {
           "name": "Jane Smith",
           "emails": [
